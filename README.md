@@ -8,11 +8,11 @@
 
 ### on Andriod device
 
-#### exp://u.expo.dev/update/72ad49d0-53b6-4499-9b1e-62c0c8ffc092
+#### exp://u.expo.dev/update/69fd0395-c14d-42cf-a2fd-19e9651a49eb
 
 ### on iOS device
 
-#### exp://u.expo.dev/update/47414c4d-d76d-445a-ab11-d5ff501b1c50
+#### exp://u.expo.dev/update/d94efef2-d9f5-41a5-ad2a-4a6d9cf12493
 
 # Lipeunim 🚀🚀
 # movie-app-RN
